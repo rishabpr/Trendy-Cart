@@ -1,0 +1,57 @@
+#ab
+{
+font-family:VERDANA;
+font-size:30px;
+position:absolute;
+left:500px;
+top:-80px;
+}
+body
+{
+	background-color:#F8F8F8;
+}
+#one
+{
+font-family:VERDANA;
+font-size:24px;
+position:absolute;
+left:520px;
+top:120px;
+	
+}
+
+#two
+{
+font-family:VERDANA;
+font-size:16px;
+position:absolute;
+left:300px;
+top:210px;
+	
+}
+
+#three
+{
+font-family:VERDANA;
+font-size:16px;
+position:absolute;
+left:300px;
+top:290px;
+	
+}
+
+#four
+{
+position:absolute;
+left:710px;
+top:210px;
+	
+}
+#about
+{
+	position:absolute;
+	top:530px;
+	left:100px;
+	font-family:VERDANA;
+	font-size:18px;
+}

@@ -1,0 +1,214 @@
+#search{
+	position:absolute;
+	top:60px;
+	left:1200px;
+	width: 150px; 
+	margin:	0 auto;
+	max-height: 150px;
+	overflow: hidden;
+}
+#text{
+	width: 150px; padding: 10px; border: 1px solid #f4f4f4; border-radius: 3px;
+	position:absolute;
+	left:1200px;
+	top:20px;
+}
+#searchtitle{
+	width: 150px; padding: 10px; background: #fff;
+	
+	
+}
+#searchtitle:hover{
+	background: #f4545f;
+}
+#upbar
+{
+	position:absolute;
+	top:-10px;
+	left:0px;
+	background-color:#EADEDC;
+	width:1376px;
+	height:50px;
+	
+}
+#navbar
+{
+	position:absolute;
+	top:40px;
+	left:0px;
+	background-color:#454443;
+	width:1376px;
+	height:70px;
+	color:#8A8A89;
+	
+}
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:#454443;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	left:450px;
+	top:70px;
+}
+
+
+.dropdown-content a {
+    color:#B4B4AF ;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+	font-family:Trebuchet MS;
+	letter-spacing:1px;
+}
+.dropdown-content a:hover{
+color:white;
+}
+
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+#title
+{
+	position:absolute;
+	text-decoration:none;
+	font-family:Trebuchet MS;
+	color: white;
+	left:100px;
+	top:0px;
+	letter-spacing:3px;
+	font-size:22px;
+	
+}
+
+
+
+#bar2
+{
+	position:absolute;
+	top:25px;	
+	left:220px;
+	
+}
+
+#contact
+{
+	position:absolute;
+	left:1000px;
+	top:40px;
+	font-size:14px;
+	text-decoration:none;
+	color:black;
+	
+}
+
+
+#name
+{
+	
+	position:absolute;
+	left:500px;
+	top:10px;
+	text-decoration:none;
+	color:black;
+}
+
+#new
+{
+	color:black;
+	text-decoration:none;
+	position:relative;
+	top:90px;
+	left:205px;
+	
+}
+#home
+{
+	position:absolute;
+	color:#B4B4AF;
+	text-decoration:none;
+	top:35px;
+	left:350px;
+	font-family:Trebuchet MS;
+	letter-spacing:1px;
+	
+}
+#collection
+{
+	color:#B4B4AF;
+	text-decoration:none;
+	position:absolute;
+	background:none;
+	font-family:Trebuchet MS;
+	letter-spacing:1px;
+	top:19px;
+	left:450px;
+	
+}
+#lookbook
+{
+	position:absolute;
+	color:#B4B4AF;
+	text-decoration:none;
+	font-family:Trebuchet MS;
+	letter-spacing:1px;
+	top:35px;
+	left:650px;
+	
+}
+#care
+{
+	position:absolute;
+	color:#B4B4AF;
+	text-decoration:none;
+	
+	font-family:Trebuchet MS;
+	letter-spacing:1px;
+	top:35px;
+	left:800px;
+	
+}
+#write
+{
+	position:absolute;
+	top:40px;
+	color:#B4B4AF;
+	text-decoration:none;
+
+	
+	font-family:Trebuchet MS;
+	letter-spacing:1px;
+	top:35px;
+	left:990px;
+	
+}
+
+
+
+
+
+
+
+

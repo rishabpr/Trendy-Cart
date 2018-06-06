@@ -1,0 +1,62 @@
+
+
+table 
+{
+	position:absolute;
+	top:300px;
+	left:250px;
+}
+#men_shoe{
+	position:relative;
+	top:140px;
+	left:270px;
+	background-color:pink;
+	width:220px;
+	height:35px;
+	background-size:10px 240px;
+	text-align:middle;
+	border:none;
+	font:bold 13px Helvetica;
+	Letter-spacing: 2px;
+	border-radius:15px;
+}
+#women_shoe{
+	position:relative;
+	top:140px;
+	left:320px;
+	background-color:pink;
+	width:220px;
+	height:35px;
+	background-size:10px 240px;
+	text-align:middle;
+	border:none;
+	font:bold 13px Helvetica;
+	Letter-spacing: 2px;
+	border-radius:15px;
+}
+#kids_shoe{
+	position:relative;
+	top:140px;
+	left:360px;
+	background-color:pink;
+	width:220px;
+	height:35px;
+	background-size:10px 240px;
+	text-align:middle;
+	border:none;
+	font:bold 13px Helvetica;
+	Letter-spacing: 2px;
+	border-radius:15px;
+}
+
+.shoes 
+{
+	
+	height:310px;
+	width:250px;
+	background-repeat:no-repeat;
+	box-shadow: 2px 2px 2px #888888;
+	
+	
+	
+}

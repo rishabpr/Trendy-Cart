@@ -1,0 +1,22 @@
+#items
+{
+position:absolute;
+top:200px;
+left:400px;
+font-family:georgia;
+border:2px solid green;
+padding:5px;
+background: rgba(255,255,255,.3);
+}
+
+body
+{
+	
+	background-image:url('pink_bg.jpg');
+}
+.authors-list
+
+{
+	
+	
+}

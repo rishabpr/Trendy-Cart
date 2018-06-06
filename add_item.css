@@ -1,0 +1,36 @@
+input
+{
+	border-radius:5px;
+	border:1px solid black;
+}
+select
+{
+	border-radius:5px;
+	border:1px solid black;
+}
+#item_form
+{
+	position:relative;
+	top:40px;
+}
+#submit_form
+{
+	position:relative;
+	top:100px;
+}
+button
+{
+	border-radius:5px;
+	border:1px solid black;
+}
+body
+{
+	
+
+}
+.item-list
+
+{
+	
+	background: rgba(255,255,255,.3);
+}

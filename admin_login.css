@@ -1,0 +1,93 @@
+#demo
+{
+	position:relative;
+	top:100px;
+	width:400px;
+	height:400px;
+	color:gold;
+}
+
+#logo
+{
+	position:relative;
+	top:200px;
+	font-style:bold;
+	font-size:35px;
+	left:-50px;
+	font-size:24px;
+	color: 	#2e003e;
+
+}
+#text1
+{
+	position:absolute;
+	top:290px;
+	height:30px;
+	width:240px;
+	left:520px;
+	background-color:transparent;
+	border:none;
+	border-bottom:3px solid #ff0074;
+	opacity:0.7;
+	font-size:20px;
+	font-style:bold;
+	color: 	#2e003e;
+	
+	
+}
+#text2
+{
+	position:absolute;
+	top:350px;
+	height:30px;
+	width:240px;
+	left:520px;
+	background-color:transparent;
+	border:none;
+	border-bottom:3px solid #ff0074;
+	font-size:20px;
+	font-style:bold;
+	opacity:0.7;
+	color: 	#2e003e;
+	
+}
+#button1
+{
+	background-color:#ff0074;
+	border-radius:15px;
+	color:white;
+	border:none;
+	width:100px;
+	height:33px;
+	position:relative;
+	top:380px;
+	left:-40px;
+	
+	
+}
+#button2
+{
+	background-color:#ff0074;
+	border-radius:15px;
+	color:white;
+	border:none;
+	width:100px;
+	height:33px;
+	position:relative;
+	top:380px;
+	left:-30px;
+	
+}
+#button3
+{
+	background-color:transparent;
+	text-decoration:underline;
+	color::#ff0074;
+	border:none;
+	
+	position:relative;
+	top:400px;
+	left:-30px;
+	cursor:pointer;
+	
+}

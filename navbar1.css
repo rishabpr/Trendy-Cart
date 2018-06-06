@@ -1,0 +1,161 @@
+#upbar
+{
+	position:absolute;
+	top:-10px;
+	left:-5px;
+	background-color:pink;
+	width:1350px;
+	height:50px;
+	
+}
+
+
+
+input[type=text] {
+        width: 130px;
+    box-sizing: border-box;
+    border-bottom: 2px solid #ccc;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	background-image:'images.png';
+    border-radius: 4px;
+    font-size: 12px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 5px 15px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+	position:relative;
+	left:130px;
+	top:15px;
+}
+
+input[type=text]:focus {
+    width: 15%;
+}
+
+
+#search
+{
+	position: relative;
+	top:35px;	
+	left:30px;
+
+}
+
+
+#bar2
+{
+	position: relative;
+	top:25px;	
+	left:220px;
+	
+}
+
+#contact
+{
+	position:relative;
+	left:1000px;
+	top:40px;
+	font-size:14px;
+	text-decoration:none;
+	color:black;
+	
+}
+#write
+{
+	position:relative;
+	left:1005px;
+	top:40px;
+	font-size:14px;
+	text-decoration:none;
+	color:black;
+	
+}
+
+#name
+{
+	
+	position:absolute;
+	left:500px;
+	top:10px;
+	text-decoration:none;
+	color:black;
+}
+
+#new
+{
+	color:black;
+	text-decoration:none;
+	position:relative;
+	top:90px;
+	left:205px;
+	
+}
+#dress
+{
+	color:black;
+	text-decoration:none;
+	position:relative;
+	top:120px;
+	left:265px;
+	
+}
+#topwear
+{
+	color:black;
+	text-decoration:none;
+	position:relative;
+	top:120px;
+	left:325px;
+	
+}
+#bottomwear
+{
+	color:black;
+	text-decoration:none;
+	position:relative;
+	top:120px;
+	left:385px;
+	
+}#suits
+{
+	color:black;
+	text-decoration:none;
+	position:relative;
+	top:120px;
+	left:445px;
+	
+}#footwear
+{
+	color:black;
+	text-decoration:none;
+	position:relative;
+	top:120px;
+	left:505px;
+	
+}#sale
+{
+	color:black;
+	text-decoration:none;
+	position:relative;
+	top:90px;
+	left:565px;
+	
+}
+#menu_text
+{
+	
+	position:relative;
+	top:-50px;
+	left:360px;
+	
+}
+
+
+
+
+

@@ -1,0 +1,60 @@
+body
+{
+	
+	background-image:url('pink_bg.jpg');
+	overflow:hidden;
+}
+#mid
+{
+	width:1350px;
+	height:650px;
+	background-image:url('rain_1.gif');
+	opacity:.4;
+}
+textarea
+{
+	resize:none;
+	width:300px;
+	background-color:#D0D0D0;
+}
+input
+{
+	width:200px;
+	height:30px;
+	background-color:#D3D3D3;
+}
+#name1
+{
+	position:absolute;
+	top:305px;
+	left:430px;
+}
+#email
+{
+	position:absolute;
+	top:360px;
+	left:430px;
+}
+#subject{
+	position:absolute;
+	top:410px;
+	left:430px;
+}
+
+#message
+{
+	position:absolute;
+	top:310px;
+	left:670px;
+}
+#one
+{
+	position:absolute;
+	top:200px;
+	left:580px;
+	font-family:VERDANA;
+	font-size:30px;
+}
+
+
+

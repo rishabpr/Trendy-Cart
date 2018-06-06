@@ -1,0 +1,103 @@
+textarea
+{
+	resize:none;
+	width:300px;
+}
+#text{
+	width: 150px; padding: 10px; border: 1px solid #f4f4f4; border-radius: 3px;
+	position:absolute;
+	left:1200px;
+	top:20px;
+}
+
+input
+{
+	width:300px;
+	height:30px;
+}
+#name1
+{
+	position:absolute;
+	top:280px;
+	left:520px;
+}
+#email
+{
+	position:absolute;
+	top:320px;
+	left:520px;
+}
+#subject{
+	position:absolute;
+	top:360px;
+	left:520px;
+}
+
+#message
+{
+	position:absolute;
+	top:400px;
+	left:520px;
+}
+#submit
+{
+	position:absolute;
+	top:480px;
+	left:520px;
+	width:120px;
+}
+#one
+{
+	position:absolute;
+	top:150px;
+	left:570px;
+	font-family:VERDANA;
+	
+}
+#two
+{
+	position:absolute;
+	top:200px;
+	left:500px;
+	font-family:VERDANA;
+
+	
+}
+#three
+{
+	position:absolute;
+	top:520px;
+	left:520px;
+}
+img
+{
+	position:absolute;
+	top:570px;
+	left:520px;
+}
+
+#img1
+{
+	position:absolute;
+	top:570px;
+	left:520px;
+}
+#img2
+{
+	position:absolute;
+	top:570px;
+	left:580px;
+}
+#img3
+{
+	position:absolute;
+	top:570px;
+	left:640px;
+}
+#img4
+{
+	position:absolute;
+	top:570px;
+	left:700px;
+}
+

@@ -1,0 +1,107 @@
+
+#upper
+{
+	height:200px;
+	width:1350px;
+	overflow:hidden;
+
+ background-repeat:no-repeat;
+color:black;
+}
+#message1{
+position:absolute;
+top:10px;
+left:1220px;
+}
+#msg_count{
+position:absolute;
+top:-20px;
+left:1250px;
+color:red;
+}
+
+#logo
+{
+	position:relative;
+	top:15px;
+	left:160px;
+	width:250px;
+	color:black;
+	background:transparent;
+	height:100px;
+	border:none;
+	font-family:verdana;
+	font-size:32px;
+}
+a
+{
+	text-decoration:none;
+	}
+#menu1
+{
+	width:95px;
+	height:45px;
+	background-color:blue;
+	position:absolute;
+	top:60px;
+	left:700px;
+	border-radius:30px;
+	color:black;
+	background-color:transparent;
+	
+}
+#exit
+{
+	width:95px;
+	height:45px;
+	background-color:blue;
+	position:absolute;
+	top:60px;
+	left:1170px;
+	border-radius:30px;
+	color:black;
+	background-color:transparent;
+	
+}
+
+#menu2
+{
+	width:95px;
+	height:45px;
+	background-color:transparent;
+	color:black;
+	position:absolute;
+	top:60px;
+	left:820px;
+	border-radius:30px;
+}
+#menu3
+{
+	width:95px;
+	height:45px;
+	background-color:transparent;
+	position:absolute;
+	top:60px;
+	left:940px;
+	color:black;
+	border-radius:30px;
+}
+#menu4
+{
+	width:95px;
+	height:45px;
+	background-color:transparent;
+	position:absolute;
+	color:black;
+	top:60px;
+	left:1060px;
+	border-radius:30px;
+}
+#demo
+{
+	
+	overflow:hidden;
+	
+	position:relative;
+	top:80px;
+}
